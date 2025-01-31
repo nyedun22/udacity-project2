@@ -18,14 +18,14 @@ cd udacity-project2
 
 ## create server stack: 
 cd udacity-project2
-./create.sh udacityproject-server server.yml server-parameters.json
+./create.sh udacityproject-server udagram.yml udagram-parameters.json
 
 ## update server stack:
 cd udacity-project2
-./update.sh udacityproject-server server.yml server-parameters.json
+./update.sh udacityproject-server udagram.yml udagram-parameters.json
 
 ## delete server stack
 cd udacity-project2
-./delete.sh udacityproject-server server.yml server-parameters.json
+./delete.sh udacityproject-server udagram.yml udagram-parameters.json
 
 Public link: http://udacit-WebAp-pNb5D3WdQoUN-1193480923.us-east-1.elb.amazonaws.com
