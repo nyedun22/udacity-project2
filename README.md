@@ -27,3 +27,5 @@ cd udacity-project2
 ## delete server stack
 cd udacity-project2
 ./delete.sh udacityproject-server server.yml server-parameters.json
+
+Public link: http://udacit-WebAp-pNb5D3WdQoUN-1193480923.us-east-1.elb.amazonaws.com
