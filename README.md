@@ -29,5 +29,5 @@ cd udacity-project2
 ./delete.sh udacityproject-server udagram.yml udagram-parameters.json
 
 ## Public link: 
-http://udacit-webap-tpqiyqejtkpa-496770147.us-east-1.elb.amazonaws.com
+http://udacit-webap-akzedglnhgec-1321245572.us-east-1.elb.amazonaws.com/
 
